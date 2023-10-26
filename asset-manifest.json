@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netlify/static/css/main.24c092f3.css",
+    "main.js": "/netlify/static/js/main.f5825b4e.js",
+    "static/js/498.00720f41.chunk.js": "/netlify/static/js/498.00720f41.chunk.js",
+    "static/js/703.6456485d.chunk.js": "/netlify/static/js/703.6456485d.chunk.js",
+    "static/js/852.b25d82b2.chunk.js": "/netlify/static/js/852.b25d82b2.chunk.js",
+    "static/media/sample_1.jpg": "/netlify/static/media/sample_1.b98d23bf141807dddf3b.jpg",
+    "static/media/sample_4.jpg": "/netlify/static/media/sample_4.1b5a69ba8cf9626566fb.jpg",
+    "static/media/sample_3.jpg": "/netlify/static/media/sample_3.198febcf3af5a5407080.jpg",
+    "static/media/sample_2.jpg": "/netlify/static/media/sample_2.6769219aeef0086f46fe.jpg",
+    "index.html": "/netlify/index.html",
+    "main.24c092f3.css.map": "/netlify/static/css/main.24c092f3.css.map",
+    "main.f5825b4e.js.map": "/netlify/static/js/main.f5825b4e.js.map",
+    "498.00720f41.chunk.js.map": "/netlify/static/js/498.00720f41.chunk.js.map",
+    "703.6456485d.chunk.js.map": "/netlify/static/js/703.6456485d.chunk.js.map",
+    "852.b25d82b2.chunk.js.map": "/netlify/static/js/852.b25d82b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c092f3.css",
+    "static/js/main.f5825b4e.js"
+  ]
+}
